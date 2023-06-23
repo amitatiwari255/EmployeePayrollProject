@@ -1,0 +1,64 @@
+{
+  "Employee": [
+    {
+      "name": "Amit",
+      "profileImage": "assets/Ellipse -3.png",
+      "gender": "female",
+      "department": "[\"HR\"]",
+      "salary": "2",
+      "date": "16/7/2017",
+      "notes": "ok",
+      "id": 5
+    },
+    {
+      "name": "Ajit",
+      "profileImage": "assets/Ellipse -2.png",
+      "gender": "male",
+      "department": "[\"Engineer\"]",
+      "salary": "3",
+      "date": "11/6/2016",
+      "notes": "ok",
+      "id": 6
+    },
+    {
+      "name": "Amar",
+      "profileImage": "assets/Ellipse -3.png",
+      "gender": "male",
+      "department": "[\"Sales\"]",
+      "salary": "3",
+      "date": "17/7/2018",
+      "notes": "ok",
+      "id": 7
+    },
+    {
+      "name": "Amita",
+      "profileImage": "assets/Ellipse -1.png",
+      "gender": "female",
+      "department": "[\"Finance\"]",
+      "salary": "4",
+      "date": "16/8/2023",
+      "notes": "ok",
+      "id": 8
+    },
+    {
+      "name": "Arjit",
+      "profileImage": "assets/Ellipse -2.png",
+      "gender": "male",
+      "department": "[\"Sales\"]",
+      "salary": "2",
+      "date": "17/8/2016",
+      "notes": "ok",
+      "id": 9
+    },
+    {
+      "name": "aditya",
+      "profileImage": "assets/Ellipse -2.png",
+      "gender": "male",
+      "department": "[\"Sales\"]",
+      "salary": "2",
+      "date": "16/1/2023",
+      "notes": "ok",
+      "id": 10
+    }
+  ]
+}

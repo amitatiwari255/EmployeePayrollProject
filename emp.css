@@ -1,0 +1,130 @@
+body{
+    height:97vh;
+    width:98vw;
+    display:flex;
+    flex-direction: column;
+}
+ .headerone{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height:10%;
+}
+section{
+    background-color: rgb(218, 210, 210);
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    height:90%;
+}
+form{
+    display:flex;
+    align-items: center; 
+    justify-content:center; 
+    flex-direction: column;
+    background-color:white;
+    height:93%;
+    width:60%;
+    
+}
+.logo{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border: 0px solid green;
+    width: 20%;
+}
+.logo-img{
+    border: solid 0px darkgray;
+
+}
+.emp{
+    font:bold;
+    color: green;
+}
+.payroll{
+    font:bold;
+    color: grey;
+}
+.form-head {
+    color: #42515F;
+    display: flex;
+    justify-content: flex-start;
+    width:80%;
+
+}
+.title{
+    display:flex;
+    align-items: centre;
+    width:65%;
+ 
+}
+#maintitle{
+    text-align: center;
+    color: blue;
+    text-decoration: underline;
+    margin-top: 30px;
+    font-size: 30px;
+}
+label{
+    display:flex;
+    align-items: center;
+}
+
+.row-content {
+   display: flex;
+   height:10%;
+   width: 80%;
+   align-items: center;
+   justify-content: center;
+
+
+}
+.profile{
+    height:30px;
+    width:30px;
+}
+
+.input {
+    width: 100%;
+    height:80%;
+
+}
+.rightContent{
+    display: flex;
+   justify-content: flex-start;
+   height:100%;
+   width: 80%;
+   align-items: center;
+  
+}
+.leftContent{
+    display: flex;
+    justify-content: flex-start;
+    height:100%;
+    width: 20%;
+    align-items: center;
+    
+
+}
+#buttonClass{
+    justify-content: space-between;
+    margin-top: 10px;
+}
+#buttonClass2{
+
+    justify-content: flex-end;
+   
+}
+.submitButton{
+    margin-right: 50px;
+}
+button{
+    height:30px;
+    width:80px;
+
+}
+
+
+
